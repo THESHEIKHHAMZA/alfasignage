@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alfasignage.com/sitemap.xml
+
+# ALFA Signage - Commercial signage manufacturer
+# Products: 3D stainless steel letters, channel letters, architectural signage, aluminium letters, acrylic letters
+# Markets: United Kingdom, Europe (France, Germany, Netherlands, Sweden)
